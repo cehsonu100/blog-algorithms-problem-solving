@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Algorithms Problem Solving</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog to learn about algorithms and problem solving</description>
+      <language>en-us</language>
+      <managingEditor>address@yoursite.com (Sonu Kumar)</managingEditor>
+      <webMaster>address@yoursite.com (Sonu Kumar)</webMaster>
+      <lastBuildDate>Wed, 30 Nov 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/bitwise-xor/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Two Single Numbers using XOR and hashmap</guid>
+    <title>Two Missing Number using from double occured number XOR</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Two Single Numbers using XOR and hashmap</link>
+    <description>In a non-empty array of numbers, every number appears exactly twice except two numbers that appear only once. Find the two numbers that appear only once.</description>
+    <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Sonu Kumar)</author>
+    <category>Bitwise XOR</category><category>Algorithms</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Single_Missing_Number_(XOR)</guid>
+    <title>SIngle Missing Number using XOR</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Single_Missing_Number_(XOR)</link>
+    <description>In a non-empty array of integers, every number appears twice except for one, find that single number.</description>
+    <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Sonu Kumar)</author>
+    <category>HashMap</category><category>Bitwise XOR</category><category>Algorithms</category>
+  </item>
+
+    </channel>
+  </rss>
